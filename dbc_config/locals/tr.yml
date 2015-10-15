@@ -1,0 +1,594 @@
+---
+sign_in: Oturum Aç
+sign_up: Kaydol
+agent_panel: ajan Paneli
+admin_panel: Yönetici Paneli
+DBC_ADVANCED_SEARCH: Gelişmiş Arama
+DBC_HOME: ev
+DBC_ABOUT: hakkında
+DBC_CONTACT: temas
+plain_search: düz Arama
+country: ülke
+state_province: Devlet / İl
+city: şehir
+register: Kayıt
+details: ayrıntılar
+view_all: Tüm
+order_by: Sırala
+none: hiçbiri
+terms_and_conditions: Şartlar ve Confition
+reg_success_message: Hesabınız kaydı başarılıdır. 
+limit: limit
+usage: kullanım
+recover: kurtarmak
+oops: Üzgünüz , sayfa bulunamadı
+share_this: Bu paylaş
+location_map: Konum Haritası
+image_gallery: Resim Galerisi
+summary: özet
+overview: genel bakış
+address: adres
+message: mesaj
+email_subject: E-posta Konusu
+all: tüm
+DBC_DELETED: silinen
+contact_us: Bize Ulaşın
+DBC_ACTIVE: aktif
+featured_video: Seçme Video
+estates: Estates
+embed_video_url: Gömülü video URL
+DBC_PENDING: kadar
+email_tracker: E-posta Tracker
+bulk_email: Toplu E-posta
+advanced_filters: Gelişmiş Filtreler
+result: sonuç
+payment_notification: Bir ödeme yapmak için gidiyoruz . 
+confirmation: onay
+tags: Etiketler
+zip_code: Posta Kodu
+embed_preview: Göm Önizleme
+login: Oturum Aç
+post_not_found: Yayınla Bulunamadı
+view_more: Daha görüntüle
+choose_a_package: Bir Paket seçiniz
+choose_feature_package: Bir özellik paketi seçin
+no_package_found: Bulunamadı Paketi
+days: günler
+posts: Mesajlar
+change: değişim
+subscribe: Abone
+DBC_PAGES: Sayfalar
+DBC_BLOG: Blog
+DBC_NEWS: haber
+DBC_ARTICLES: Makaleler
+DBC_REPORTED: bildirilen
+image: görüntü
+condition: durum
+custom_fields: Özel Alanlar
+view_on_map: Haritada Görüntüle
+create: oluşturmak
+basic_info: Temel Bilgi
+estate_brochure: Emlak Broşür
+send: göndermek
+all_email_to_users: Kullanıcılar tüm e-postalar
+email_detail: E-posta Detayı
+change_package: Değişim Paketi
+bank_transfer: Banka Transferi
+contact_subject: İletişim E-
+payment_finish_title: Ödeme Tamamlandı
+payment_renew_title: Ödeme Tamamlandı
+payment_finish_text: Ödemeniz tamamlandı . 
+payment_renew_text: Ödemeniz tamamlandı . 
+payment_cancel_title: Ödeme İptal
+payment_cancel_text: Ödemeniz iptal edilir
+feature_payment_finish: Ödemeniz tamamlandı . 
+feature_payment_cancel: Ödemeniz iptal edilir .
+private_owner: Özel Sahibi
+selected_package: seçilen Paketi
+signup_with_social_account: Sosyal hesapla Kayıt
+password: şifre
+confirm_password: Şifreyi Onayla
+all_posts: Tüm mesajlar
+no_posts: yok Mesajlar
+title: başlık
+description: tanım
+status: durum
+actions: Eylemler
+action: eylem
+type: tip
+type_something: bir şey yazın
+content: içerik
+featured_image: Sunulan Görüntü
+category: kategori
+all_categories: Tüm kategoriler
+edit_category: Düzenleme kategorisi
+new_category: yeni kategori
+parent: ebeveyn
+edit: Düzenle
+delete: silmek
+name: isim
+save: kaydet
+no_parent: hiçbir ebeveyn
+edit_email_template: E-posta düzenle şablonu
+select_template_file: Seçin şablon dosyası
+subject: konu
+body: vücut
+available_variables: Mevcut değişkenler
+select_language: Dil Seç
+select_language_file: Seç dil dosyası
+edit_as_new: Yeni olarak düzenlemek
+language: dil
+add_another: Başka ekle
+export_to_file: İhracat dosya
+import_from_file: Dosyadan İthalat
+auto_translator: Otomatik çevirmen
+from_lang: lang Gönderen
+target_lang_full_name: Hedef lang tam adı
+target_lang_short_name: Hedef lang kısa adı
+create_new_package: Yeni Paket Oluştur
+price: fiyat
+maximum_post_by_user: Kullanıcı tarafından Maksimum mesajlar
+expirtion_time: Expirtion süresi ( gün)
+create_package: Paket oluşturma
+edit_package: Düzenle paketi
+update_package: Güncelleme paketi
+add_packages: paketleri ekleyin
+all_packages: Tüm paketler
+no_packages: hiçbir paketler
+options: Seçenekler
+all_pages: Tüm sayfalar
+no_pages: hiçbir sayfalar
+manage_menu: Menu yönetin
+menu_title: Menü Başlığı
+menu_alias: Menü takma
+show_in_menu: Menüde Göster
+page_layout: Sayfa düzeni
+content_from: içerik
+url: URL
+seo_options: SEO seçenekleri
+meta_description: meta açıklama
+key_words: anahtar kelimeler
+crawl_after: Tarama ( gün ) sonra
+all_plugins: Tüm eklentileri
+no_plugins: hiçbir eklentileri
+name_and_version: Adı ve sürümü
+change_password: şifre değiştir
+current_password: Mevcut Şifre
+new_password: yeni Şifre
+retype_password: şifrenizi yeniden yazın
+password_reset_info_msg: Önce Yeni Şifre Set Lütfen
+edit_profile: profili düzenle
+profile_picture: Profil Resmi
+username: Kullanıcı adı
+email: E-posta
+first_name: İsim
+last_name: Soyadı
+gender: cinsiyet
+phone: telefon
+company_name: Firma Adı
+about_me: Benim Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Twitter hesabı
+linkedin_account: linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: 'Http olmadan , linki girin : //'
+web_email_settings: Web E-posta Ayarları
+contact_email: İletişim E-
+webadmin_name: webadmin Adı
+webadmin_email: webadmin E-
+update: güncelleştirme
+upload: Yükle
+site_settings: Site Ayarları
+site_title: sitesi Başlığı
+footer_text: Altbilgi Metin
+site_logo: sitesi Logo
+site_language: Site Dilini
+site_text_direction: Sitesi Metin Yönü
+per_page: Pagination Sayfa Başına
+default_page_layout: Sayfa Düzeni Standart
+tracking_code: izleme Kodu
+smtp_email_settings: SMTP E-posta Ayarları
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Bağlantı Noktası
+smtp_timeout: SMTP Zaman Aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifresi
+generate_site_map: Site haritası oluşturun
+sitemap_info_msg: 
+pages: Sayfalar
+blog_posts: Blog Yazıları
+articles: Makaleler
+blog_post: Blog Post
+blog: Blog post
+article: makale
+news: haber
+view_xml: Görünüm XML
+create_xml: XML oluşturma
+manage_backups: Yedekleri'ni yönetin
+create_sql_backup: SQL Yedekleme oluşturun
+create_image_backup: Görüntü Yedekleme oluşturun
+restore: Restore
+download: indir
+dashboard: gösterge paneli
+overview_stats_more: Genel , İstatistikler ve daha fazlası
+visit_site: Ziyaret Sitesi
+logout: Çıkış
+themes: Temalar
+locations: Mekanlar
+amenities: kolaylıklar
+distance_fields: Mesafe Alanları
+paypal_settings: Paypal Ayarları
+payment_history: Ödeme Geçmişi
+profile: profil
+packages: Paketler
+agents: Ajanlar
+widgets: widget'lar
+all_widgets: Tüm Widget'lar
+widget_positions: Widget Pozisyonlar
+blog_news_article: Blog / Haber / Makale
+new_post: yeni Mesaj
+pages_and_menu: Sayfalar ve Menü
+new_page: yeni Sayfa
+menu: menü
+system: sistem
+manage_languages: Diller Yönet
+auto_translate: Otomatik Çevir
+edit_email_text: Düzenleme E-posta Metni
+admin_settings: Web Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirmek
+active_theme: aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı Oluştur
+export_user_email: İhracat Kullanıcı e-postalar ( .csv )
+profile_info: Profil Bilgileri
+ban_forever: Sonsuza Ban
+edit_page: Sayfayı Düzenle
+create_widget: Widget oluştur
+widget_name: Widget Adı
+activate_deactivate: 'Etkinleştirin / De - Etkinleştir'
+show: gösteri
+available_widgets: Mevcut Widget'lar
+active_widgets: aktif Widget'lar
+delete_warning: Emin silerim istiyorum misiniz .
+yes: evet
+no: hayır
+product_name: sınıflandırılmış
+fa_icon: FA simgesi sınıfı
+post_ad: İlan
+post_ad_subtitle: Reklam detay koy
+signin: Oturum Aç
+signup: Kaydol
+signup_title: Hesabınızı oluşturun
+not_found: bulunamadı
+purpose: amaç
+purpose_buy: satın almak
+purpose_sell: satmak
+select_category: Kategori Seçiniz
+contact_for_price: Fiyat için İletişim
+address_info: Adres Bilgileri
+general_info: Genel Bilgi
+upload_later_msg: Sen sonrası oluşturulduktan sonra galeri fotoğraf ve video url yüklemek mümkün olacak
+user_panel: kullanıcı paneli
+put_as_comma_seperated: olarak (,) virgül ayrılmalıdır koymak
+added: katma
+location: konum
+views: İzlenme
+package_type: tip
+post_package: Mesaj paketi
+featured_package: Sunulan paket
+both_package: Posta ve özellikli
+select_package: seç paket
+package_created: paket oluşturulan
+package_updated: paket güncellendi
+slider: Slider
+add_new: yeni ekle
+new_slide: yeni slayt
+update_slide: Güncelleme slayt
+save_order: kaydet sipariş
+slider_sort_instruction: Sen tablo satırları sıralamak için damla sürükleyebilirsiniz . 
+search: arama
+results: sonuçlar
+property_location_on_map: Haritada Lokasyon
+location_on_map: Haritada Yeri
+contact_mode: İletişim Modu
+reset: ayarlamak
+contact: temas
+default_site_view: Varsayılan sitesi görünümü
+type_your_message: Mesajınızı buraya yazın ..
+mail_sent: posta Gönderildi
+search_classifieds: Arama İlanlar
+advanced_search: Gelişmiş Arama
+narrow_down_your_classifieds: Senin ilanları daraltın
+home: ev
+list_your_ad: Sizin Reklam Liste
+print: baskı
+remember_me: Beni Hatırla
+forgot_password: Parolanızı Mı Unuttunuz
+login_to_your_account: Hesabınıza oturum açın
+register_your_account: Hesabınızı Kayıt
+male: erkek
+female: kadın
+no_location_found: Hiçbir Yer Bulundu
+state: devlet
+ad_creation_error: Reklam yaratma hatası ! 
+users: Kullanıcılar
+show_admin_user: Göster Admin Kullanıcı
+send_email_to_user: Kullanıcıya E-posta Gönder
+DBC_PAYMENT_PENDING: Ödeme beklemede
+DBC_EXPIRED: Süresi Doldu
+ads: Reklamlar
+categories: Kategoriler
+top_posts: En Mesajlar
+show_state_province: Göster Devlet İli
+package_settings: paket Ayarları
+default_site_settings: Varsayılan Site Ayarları
+webadmin_settings: webadmin Ayarları
+banner_settings: Banner Ayarları
+ads_for_sale: Satılık İlanlar
+ads_to_buy: Reklamlar Satın
+max_price_for_search: Arama Max Fiyat
+for_sell: Satmak için
+for_buy: Satın Al
+search_filters: Arama Filtreleri
+posts_per_page: Sayfa Başına Mesajlar
+recent_posts: Son gönderiler
+featured_posts: Öne Çıkanlar
+top_locations: En Mekanlar
+top_users: En Kullanıcılar
+approve: onaylamak
+make_featured: Yap özellikli
+remove_featured: Kaldır özellikli
+renew_featured: Yenile özellikli
+renew_package: paketi yenilemek
+no_renew_post_id: Sonrası kimliği yenilemek Geçersiz
+approve_payment: ödeme Onayla
+transaction: işlem
+transaction_id: İşlem kimliği
+post_id: Mesaj kimliği
+amount: miktar
+request_date: İstek tarihi
+expiration_date: Son kullanma tarihi
+transaction_deleted: İşlem silindi
+payment_approved: Ödeme onaylanmış
+logged_in_as: Olarak oturum
+posted_on: Yayınlanan
+confirm_email_send: 'Onay e-posta Bu e- yönergeleri takip send.Please .'
+email_confirmed: E-posta confirmed.You şimdi e-posta ve şifre ile giriş yapabilirsiniz
+email_confirmed_failed: Onay failed.Confirmation e-posta ve şifre eşleşmiyor .
+password_change_success: Şifre başarıyla değiştirildi
+email_sent_inbox: Bir e-posta inbox.Check bu e-posta gönderilir.
+password_recovery_link_invalid: Şifre Kurtarma Bağlantı geçerli değil
+user_updated: kullanıcı Güncellendi
+user_deleted: kullanıcı Silindi
+user_banned: kullanıcı Yasaklı
+user_unbanned: kullanıcı unbanned
+user_confirmed: kullanıcı Onaylandı
+post_deleted: Mesaj Silindi
+post_updated: Mesaj düzenlendi
+post_created: Mesaj düzenlendi
+post_featured: Mesaj özellikli
+data_inserted: Veriler takılı
+data_updated: Veriler Güncelleme
+feature_renewed: özellik Yenilendi
+post_feature_removed: Mesaj Özelliği Kaldırıldı
+post_approved: Mesaj Onaylı
+invalid_post: Geçersiz Mesaj
+email_sent: E-posta Gönderildi
+settings_updated: Ayarlar Güncellendi
+package_removed: paket kaldırıldı
+page_updated: Sayfa Güncelleme
+page_created: Sayfa düzenlendi
+page_deleted: Sayfa silinmiş
+menu_updated: Menü Güncelleme
+site_map_generation_success: Site haritası başarıyla oluşturuldu .
+select_option: Üzerinde seçmek veya daha fazla seçenekleri belirleyin edin.
+image_backup_created: Görüntü Yedekleme düzenlendi
+language_translated: Dil Çeviri
+unavle_to_write_file: Dosya yazmak için açılamıyor
+backup_deleted: Yedekleme Silindi
+database_restored: Veritabanı restore
+theme_activated: Tema Aktif
+user_created: kullanıcı oluşturuldu
+widget_position_updated: Widget Postion Güncellendi
+widget_created: Widget düzenlendi
+widget_data_updated: Widget Veriler Güncelleme
+unable_to_write_widget: Widget yazılamıyor
+post_created_and_published: Mesaj yarattı ve yayınlanan
+post_created_approval: Mesaj yarattı ve yönetici onayı bekliyor
+post_package_renewed: Mesaj paketi yenilendi
+payment_finish: Ödeme bitirmek
+payment_cancelled: Ödeme iptal
+admin_change_pass_help: Hiçbir değişiklik gerekirse boş bırakın
+go_to_paypal: Paypal git
+electronics: elektronik
+home_appliences: Ev aPPLIENCES
+mobile_and_tables: Cep & tablolar
+tv_and_lcd: Tv & Lcd
+login_with_google: Google ile giriş
+login_with_facebook: Facebook ile giriş yap
+load_more_recent_posts: Daha fazla Son Mesajlar yükleyin
+load_more_featured_posts: Daha Sunulan Mesajını yükleyin
+hot_property: sıcak Mülkiyet
+register_for_new_account: Yeni Hesap Kayıt
+site_map: Site Haritası
+show_site_map: Göster site haritası
+service: hizmet
+features: özellikler
+about: hakkında
+view_posts: Görünüm mesajlar
+see_full_documentation: Tam belgelerine bakın
+select_city: Şehir seçin
+parallax_slider: paralaks Slider
+all_slides: Tüm slaytlar
+no_slide: hiçbir slayt
+slide_order: Slayt düzeni
+post_price_settings: Mesaj fiyat ayarları
+enable_post_pricing: Sonrası fiyatlandırma etkinleştirin
+enable_paypal_transfer: paypal etkinleştirin
+enable_bank_transfer: Banka havalesi etkinleştirme
+bank_transfer_instruction_for_posts: Banka Transferi Talimatı
+featured_price_settings: Öne fiyat ayarları
+enable_featured_pricing: Özellikli fiyatlandırma etkinleştirin
+enable_featured_paypal: paypal etkinleştirin
+enable_featured_bank_transfer: Banka havalesi etkinleştirme
+bank_transfer_instruction_for_featured_posts: Banka havalesi talimat
+bank_currency_settings: Banka döviz ayarları
+bank_currency: Banka kur
+use_same_as_paypal_currency: Paypal para birimi olarak aynı kullanın
+admin: yönetim
+re_password: şifrenizi yeniden yazın
+explain_widget_position: Widget pozisyonları açıklar
+post: posta
+post_renew: Mesaj Yenile
+feature: özellik
+feature_renew: Yenile özelliği
+payment_for: Ödeme
+new_ad: yeni Reklam
+select_country: Ülke Seç
+select_one: seçin Bir
+video_url: Vidoe URL'si
+confirm_payment: Ödeme onaylayın
+package_title: paket Başlık
+number_of_featured_days: Gün sayısı özellikli olması
+no_of_days: Gün Resim
+expiration_time: Son Kullanma Zamanı
+any_city: herhangi Şehir
+any_category: herhangi Kategori
+include_contact_for_price: Fiyat İletişim Dahil
+product_admin_panel: NuggPlug Yönetici
+username_or_email: Kullanıcı adı veya E-posta
+post_detail: Mesaj detay
+post_detail_subtitle: 
+posts_by: By Mesajlar
+featured: Öne
+business: iş
+individual: bireysel
+edit_user: Düzen kullanıcı
+the_field_is_required: % S alan gereklidir .
+valid_email: % S alanı geçerli bir e-posta adresi içermelidir .
+min_length: % S alan uzunluğu en az % s karakter olmalıdır .
+numeric: % S sadece sayı içermelidir .
+matches: % S alan % s alanı eşleşmiyor .
+greater_than: % S alan% s'den daha büyük bir sayı içermelidir .
+agree_terms: Ben % s Şartlar ve koşullar % s okudum
+must_accept_terms: Sen şart ve koşul kabul etmelisiniz
+dont_have_permission: Bu sayfaya erişmek için yetkiniz yok
+email_allready_in_use: Zaten kullanımda E-posta
+username_allready_in_use: Kullanılan Allready ID
+current_password_not_matched: Mevcut şifre \ 't maçı etmedim
+email_not_matched: E-posta eşleşmedi
+account_not_confirmed: Hesap teyit değil
+all_locations: Tüm konumlar
+add_country: ülkeyi ekle
+add_state: devlet ekle
+add_city: şehir ekle
+no_locations: hiçbir yerleri
+banner_type: Banner tipi
+bg_image: Arka plan görüntüsü
+unique_alias: % S alan benzersiz olması gerekir
+error_occured: Hata oluştu . 
+user_profile: Kullanıcı profili '
+user_email: kullanıcı e-posta
+target_lang_name: öğrenilecek dil
+no_emails: hiçbir e-postalar
+to: için
+classified_settings: Seri Ayarlar
+publish_posts_directly: Doğrudan mesajları Yayınla
+system_currency: Sistem birimi
+enable_signup: signup etkinleştirin
+if_package_expired: Paket süresi ise
+do_not_hide: Gizlemek etmeyin
+hide: gizlemek
+show_price_like: Fiyat biçimi
+facebook_app_settings: Facebook uygulaması ayarları
+enable_facebook_login: Facebook login etkinleştirin
+fb_app_id: Facebook uygulaması kimliği
+fb_secret_key: Facebook'tan gizli anahtar
+comment_settings: Yorum ayarları
+enable_comment: Yorum etkinleştirin
+disqus_shortname: Disqus shortname
+sandbox_mode: Sandbox Modu
+item_name: Ürün adı
+paypal_email: Paypal e-posta
+currency: para
+finish_url: Bitiş url
+cancel_url: url İptal
+menu_background: Menü arka plan
+menu_text_color: Menü metin rengi
+activated_menu_color: Aktif menü rengi
+top_bar_bg: En çubuk bg
+activated_menu_text_color: Aktif menü metin rengi
+latitude: enlem
+longitude: boylam
+map_zoom: Harita yakınlaştırma
+search_panel_settings: Arama paneli ayarları
+search_panel_bg_color: Arama paneli bg renk
+show_background_image: Göster arka plan resmi
+active_widget_position: Aktif Widget pozisyonu
+upload_and_install: Yükle ve yükleyin
+install_updates: Güncellemeler / Temalar Yükle / Eklentiler / Widget'lar
+confirmation_email: Onay E-
+recovery_email: Kurtarma E-
+signup_notification_email: Bildirim E-posta Kayıt
+payment_confirmation_email: Ödeme Onay E-posta
+click_and_edit: Bir şablon dosyasını seçin ve düzenle tıklayın
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Varsayılan ayarları SEO
+find_us_on_facebook: Facebook bizi bulun
+category_featured_posts: Öne mesajlar
+load_more_posts: Daha Yük
+home_page_title: Arama ve sonrası kategorisi üst ilanları
+no_posts_found: Hiç mesaj
+computers_and_laptops: Bilgisayar ve dizüstü bilgisayarlar
+home_appliances: Ev aPPLIENCES
+mobiles_and_tablets: Mobil ve Tablet
+tv_and_media: Televizyon ve Medya
+community: topluluk
+carpool: Filomuz
+churches: kiliseler
+garage_sales: garaj Satışları
+fashion: moda
+bags: Çanta
+beauty_products: Güzellik Ürünleri
+jewelry: takı
+shoes: Ayakkabı
+watches: Saatler
+jobs: İşler
+accounting: muhasebe
+cleaning: temizlik
+construction_work: İnşaat işleri
+matrimonials: Matrimonials
+brides: gelinler
+casual_encounters: Casual Buluşmaları
+grooms: damatların
+pets: Evcil
+cats: kediler
+dogs: Köpekler
+fish_and_reptiles: Balık & Sürüngenler
+pet_food: Pet Gıda
+real_estate: gayrimenkul
+apartment: daire
+commercial_places: ticari Yerler
+homes: evler
+lands: Arsalar
+rentals: kiralama
+vehicles: Araçlar
+sports_cars: Spor Otomobiller
+SUV: SUV
+sedan: sedan
+van_and_truck: Van & Kamyon
+services: Hizmetler
+cleaning_service: Temizlik Servisi
+catering_service: İkram Servisi
+moving_service: hareketli Hizmet
+educational: eğitsel
+medical: tıbbi
+type_anything: bir şey yazın
+chosen_not_found: Üzgünüz , hiçbir şey bulunamadı !
+price_asc: Fiyat Artan
+price_desc: Fiyat Azalan
+id_desc: Kimliği Azalan
+id_asc: Kimliği Artan

@@ -1,0 +1,594 @@
+---
+sign_in: Anmelden
+sign_up: Anmeldung
+agent_panel: Agentensteuerung
+admin_panel: Admin Panel
+DBC_ADVANCED_SEARCH: Erweiterte Suche
+DBC_HOME: Nach Hause
+DBC_ABOUT: über
+DBC_CONTACT: In Kontakt Treten
+plain_search: Plain suchen
+country: Land
+state_province: Bundesland / Kanton
+city: City
+register: Registrieren
+details: Einzelheiten
+view_all: Alle anzeigen
+order_by: Sortieren nach
+none: Die Sonne Geht Auf
+terms_and_conditions: Geschäfts confition
+reg_success_message: Ihr Konto Anmeldung ist erfolgreich. 
+limit: Grenze
+usage: Verwendung
+recover: Erholen Sich
+oops: Hoppla, Seite nicht gefunden
+share_this: teilen
+location_map: Lageplan
+image_gallery: Bildergalerie
+summary: Zusammenfassung
+overview: Überblick
+address: Anschrift
+message: Nachricht
+email_subject: E-Mail Betreff
+all: alle
+DBC_DELETED: gelöscht
+contact_us: Kontaktieren Sie Uns
+DBC_ACTIVE: aktiv
+featured_video: Featured Video
+estates: Ländereien
+embed_video_url: Embeded Video URL
+DBC_PENDING: schwebend
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Erweiterte Filter
+result: Ergebnis
+payment_notification: Sie sind dabei, eine Zahlung zu leisten. 
+confirmation: Bestätigung
+tags: Schlagworte
+zip_code: Zip Code
+embed_preview: Embed Vorschau
+login: Einloggen
+post_not_found: Sende nicht gefunden
+view_more: Mehr anzeigen
+choose_a_package: Wählen Sie ein Paket
+choose_feature_package: Wählen Sie ein Feature-Paket
+no_package_found: Kein Paket gefunden
+days: Tage
+posts: Beiträge
+change: Sich Ändern
+subscribe: zeichnen
+DBC_PAGES: Seiten
+DBC_BLOG: Blog
+DBC_NEWS: Nachrichten
+DBC_ARTICLES: Artikel
+DBC_REPORTED: berichtet
+image: Bild
+condition: Zustand
+custom_fields: benutzerdefinierte Felder
+view_on_map: Auf der Karte
+create: schaffen
+basic_info: Basis Info
+estate_brochure: Immobilienbroschüre
+send: Zukommen Lassen
+all_email_to_users: Alle E-Mails an Benutzer
+email_detail: E-Mail -Detail
+change_package: Änderungspaket
+bank_transfer: Banküberweisung
+contact_subject: Kontakt per E-Mail
+payment_finish_title: Payment Komplett
+payment_renew_title: Payment Komplett
+payment_finish_text: Ihre Zahlung ist abgeschlossen. 
+payment_renew_text: Ihre Zahlung ist abgeschlossen. 
+payment_cancel_title: Payment Abbrechen
+payment_cancel_text: Ihre Zahlung gelöscht wird
+feature_payment_finish: Ihre Zahlung ist abgeschlossen. 
+feature_payment_cancel: Ihre Zahlung wird gelöscht.
+private_owner: Private Eigentümer
+selected_package: ausgewählte Package
+signup_with_social_account: Anmelden mit sozialer Konto
+password: Passwort
+confirm_password: Passwort Bestätigen
+all_posts: Alle Beiträge
+no_posts: Keine Beiträge
+title: Titel
+description: Beschreibung
+status: Status
+actions: Aktionen
+action: Aktion
+type: Art
+type_something: geben Sie etwas
+content: Inhalt
+featured_image: Ausgewähltes Bild
+category: Kategorie
+all_categories: Alle Kategorien
+edit_category: Kategorie ändern
+new_category: neue Kategorie
+parent: Elternteil
+edit: bearbeiten
+delete: löschen
+name: Name
+save: Speichern
+no_parent: Kein Elternteil
+edit_email_template: Bearbeiten E-Mail -Vorlage
+select_template_file: Vorlagendatei Wählen Sie
+subject: Gegenstand
+body: Körper
+available_variables: Verfügbare Größen
+select_language: Sprache wählen
+select_language_file: Sprachdatei Wählen
+edit_as_new: Anpassen als neue
+language: Sprache
+add_another: hinzufügen weiterer
+export_to_file: In Datei exportieren
+import_from_file: Aus Datei importieren
+auto_translator: Auto Übersetzer
+from_lang: von lang
+target_lang_full_name: Ziel lang vollen Namen
+target_lang_short_name: Ziel lang Kurzname
+create_new_package: Neues Paket erstellen
+price: Preis
+maximum_post_by_user: Maximale Beiträge Benutzer
+expirtion_time: Expirtion Zeit (Tage)
+create_package: Paket erstellen
+edit_package: Paket bearbeiten
+update_package: Update-Paket
+add_packages: Fügen Sie Pakete
+all_packages: Alle Pakete
+no_packages: Keine Pakete
+options: Optionen
+all_pages: Alle Seiten
+no_pages: Keine Seite
+manage_menu: Menü verwalten
+menu_title: Menütitel
+menu_alias: Menü -Alias
+show_in_menu: Im Menü anzeigen
+page_layout: Seitenlayout
+content_from: Inhalt aus
+url: URL
+seo_options: SEO -Optionen
+meta_description: Meta Beschreibung
+key_words: Schlüsselwörter
+crawl_after: Crawl nach (Tagen )
+all_plugins: Alle Plugins
+no_plugins: Keine Plugins
+name_and_version: Name und Version
+change_password: Kennwort ändern
+current_password: Aktuelles Passwort
+new_password: neues Kennwort
+retype_password: Passwort wiederholen
+password_reset_info_msg: Bitte setzen Sie zuerst Ihr Neues Passwort
+edit_profile: Profil bearbeiten
+profile_picture: Profil Bild
+username: Benutzername
+email: E-Mail
+first_name: Vorname
+last_name: Nachname
+gender: Geschlecht
+phone: Telefon
+company_name: Name Der Firma
+about_me: Über Mich
+facebook_account: Facebook-Account
+twitter_account: Twitter-Account
+linkedin_account: Linkedin Konto
+gp_account: Google+ Account
+account_msg: 'Bitte geben Sie den Link, ohne http: //'
+web_email_settings: 'Web- E-Mail -Einstellungen'
+contact_email: Kontakt per E-Mail
+webadmin_name: webadmin -Name
+webadmin_email: webadmin Email
+update: Aktualisierung
+upload: hochladen
+site_settings: Site-Einstellungen
+site_title: Seitentitel
+footer_text: Fußzeilentext
+site_logo: Site-Logo
+site_language: Website-Sprache wählen
+site_text_direction: 'Website- Textrichtung'
+per_page: Paginierung pro Seite
+default_page_layout: Standard-Seitenlayout
+tracking_code: Tracking-Code
+smtp_email_settings: 'SMTP- E-Mail -Einstellungen'
+smtp_email: 'SMTP- E-Mail'
+smtp_host: SMTP -Host
+smtp_port: SMTP -Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP Benutzer
+smtp_password: 'SMTP- Passwort'
+generate_site_map: Generieren Sitemap
+sitemap_info_msg: 
+pages: Seiten
+blog_posts: Blog Beiträge
+articles: Artikel
+blog_post: Blog Beitrag
+blog: Blog-Beitrag
+article: Artikel
+news: Nachrichten
+view_xml: XML anzeigen
+create_xml: erstellen von XML-
+manage_backups: Sicherungen verwalten
+create_sql_backup: Erstellen Sie SQL Backup
+create_image_backup: Erstellen Sie Imagesicherung
+restore: wiederherstellen
+download: Herunterladen
+dashboard: Armaturenbrett
+overview_stats_more: Übersicht , Statistik und mehr
+visit_site: Besuchen Sie die Seite
+logout: Logout
+themes: Themes
+locations: Locations
+amenities: Komfort
+distance_fields: Entfernung Felder
+paypal_settings: Paypal Einstellungen
+payment_history: Zahlungsverlauf
+profile: Profil
+packages: Packages
+agents: Agents
+widgets: Widgets
+all_widgets: Alle Widgets
+widget_positions: Widget Positionen
+blog_news_article: Blog / News / Artikel
+new_post: New Post
+pages_and_menu: Seiten & Menu
+new_page: neue Seite
+menu: Menü
+system: System
+manage_languages: verwalten Sprachen
+auto_translate: Auto Übersetzungen
+edit_email_text: Bearbeiten E-mail Text
+admin_settings: Web Admin-Einstellungen
+sitemap: Sitemap
+activate: aktivieren
+active_theme: aktive Themen
+available_themes: Verfügbare Themen
+all_users: Alle Benutzer
+create_user: Benutzer erstellen
+export_user_email: 'Export User- E-Mails (.csv)'
+profile_info: Profil-Information
+ban_forever: Verbot für immer
+edit_page: Seite bearbeiten
+create_widget: Widget erstellen
+widget_name: Widget -Name
+activate_deactivate: Aktivieren / Deaktivieren
+show: Show
+available_widgets: Verfügbare Widgets
+active_widgets: aktive Widgets
+delete_warning: Möchtest löschen.
+yes: ja
+no: keine
+product_name: klassifiziert
+fa_icon: FA Symbol Klasse
+post_ad: Werben
+post_ad_subtitle: Setzen Sie Ihre Anzeige Detail
+signin: Anmelden
+signup: Anmeldung
+signup_title: Jetzt anmelden
+not_found: nicht gefunden
+purpose: Zweck
+purpose_buy: kaufen
+purpose_sell: verkaufen
+select_category: Kategorie auswählen
+contact_for_price: Kontakt für Preis
+address_info: Adresse Info
+general_info: Allgemeine Infos
+upload_later_msg: Sie werden in der Lage, die Galerie und Video -URL nach Post Schaffung hochladen
+user_panel: Benutzerfeld
+put_as_comma_seperated: stellen so (,) Komma sperated
+added: zusätzlich
+location: Lage
+views: Ansichten
+package_type: Art
+post_package: Kleinpaket
+featured_package: Besondere Verpackung
+both_package: Post und vorge
+select_package: Select -Paket
+package_created: Package erstellt
+package_updated: Package aktualisiert
+slider: Slider
+add_new: Add new
+new_slide: neue Seite
+update_slide: aktualisieren Schiebe
+save_order: um Speichern
+slider_sort_instruction: Sie können Drop ziehen, um die Tabellenzeilen zu sortieren. 
+search: Suche
+results: Ergebnisse
+property_location_on_map: Objekt Standort
+location_on_map: Standort
+contact_mode: Kontakt -Modus
+reset: rücksetzen
+contact: In Kontakt Treten
+default_site_view: 'Standard- Website -Ansicht'
+type_your_message: Ihre Nachricht ..
+mail_sent: Mail Sent
+search_classifieds: Suche Kleinanzeigen
+advanced_search: Erweiterte Suche
+narrow_down_your_classifieds: Verfeinern Sie Ihre Kleinanzeigen
+home: Nach Hause
+list_your_ad: Listen Sie Ihre Anzeige
+print: drucken
+remember_me: mich Erinnern
+forgot_password: Passwort Vergessen
+login_to_your_account: Anmeldung zu Ihrem Benutzerkonto
+register_your_account: Registrieren Sie Ihr Konto
+male: männlich
+female: weiblich
+no_location_found: Kein Standort gefunden
+state: Zustand
+ad_creation_error: Fehler im Anzeigenerstellung ! 
+users: Benutzer
+show_admin_user: Zeige Admin Benutzer
+send_email_to_user: Senden Sie E-Mail an Benutzer
+DBC_PAYMENT_PENDING: Payment angemeldet
+DBC_EXPIRED: abgelaufen
+ads: Anzeigen
+categories: Kategorien
+top_posts: Top Beiträge
+show_state_province: Staats Provinz anzeigen
+package_settings: Paketeinstellungen
+default_site_settings: 'Standard- Site-Einstellungen'
+webadmin_settings: webadmin Einstellungen
+banner_settings: banner Einstellungen
+ads_for_sale: Anzeigen zum Verkauf
+ads_to_buy: Anzeigen kaufen
+max_price_for_search: Max Preis für Suche
+for_sell: For Sell
+for_buy: Kaufen
+search_filters: Suchfilter
+posts_per_page: Beiträge pro Seite
+recent_posts: Neue Beiträge
+featured_posts: Beliebte Beiträge
+top_locations: Wichtige Standorte
+top_users: Top Benutzer
+approve: genehmigen
+make_featured: Stellen vorge
+remove_featured: vorge entfernen
+renew_featured: Erneuern vorge
+renew_package: Erneuern Paket
+no_renew_post_id: Ungültige erneuern Post -ID
+approve_payment: genehmigen Zahlung
+transaction: Geschäft
+transaction_id: Transaction -ID
+post_id: Post -ID
+amount: Höhe
+request_date: Anfrage Datum
+expiration_date: Verfallsdatum
+transaction_deleted: Transaktions gelöscht
+payment_approved: Zahlung genehmigt
+logged_in_as: Eingeloggt als
+posted_on: Veröffentlicht am
+confirm_email_send: Bestätigungsmail send.Please folgen Sie den Anweisungen von diesem E-Mail.
+email_confirmed: Email confirmed.You können nun mit Ihrer E-Mail und Passwort
+email_confirmed_failed: Bestätigung failed.Confirmation E-Mail und Code nicht übereinstimmt .
+password_change_success: Kennwort erfolgreich geändert
+email_sent_inbox: Eine E-Mail ist an Ihre inbox.Check dieser E-Mail .
+password_recovery_link_invalid: Password Recovery Link nicht mehr gültig
+user_updated: Benutzer aktualisiert
+user_deleted: Benutzer gelöscht
+user_banned: Benutzer Banned
+user_unbanned: Benutzer unbanned
+user_confirmed: Benutzer bestätigt
+post_deleted: Nachricht wurde geloescht
+post_updated: Beitrag Erstellt
+post_created: Beitrag Erstellt
+post_featured: Beitrag vorge
+data_inserted: Daten eingefügt
+data_updated: Daten aktualisiert
+feature_renewed: Feature Erneute
+post_feature_removed: Beitrag Eigenschaft wurde entfernt
+post_approved: Beitrag Genehmigt
+invalid_post: Ungültige Beitrag
+email_sent: E-Mail gesendet
+settings_updated: Einstellungen aktualisiert
+package_removed: Paket entfernt
+page_updated: Seite aktualisiert
+page_created: Seite erstellt
+page_deleted: Seite gelöscht
+menu_updated: Menü aktualisiert
+site_map_generation_success: Sitemap erfolgreich erstellt.
+select_option: Bitte wählen Sie ein oder mehrere Optionen auszuwählen .
+image_backup_created: Imagesicherung Erstellt
+language_translated: Sprache übersetzt
+unavle_to_write_file: Kann Datei schreiben
+backup_deleted: Sicherung gelöscht
+database_restored: Datenbank wiederhergestellt
+theme_activated: Thema Aktiv
+user_created: Benutzer Erstellt
+widget_position_updated: Widget Postion aktualisiert
+widget_created: Widget Erstellt
+widget_data_updated: Widget Daten aktualisiert
+unable_to_write_widget: Kann Widget schreiben
+post_created_and_published: Beitrag erstellt und veröffentlicht
+post_created_approval: Beitrag erstellt und wartet auf Admin -Zulassung
+post_package_renewed: Kleinpaketerneuert
+payment_finish: Zahlungsende
+payment_cancelled: Payment abgesagt
+admin_change_pass_help: Leer lassen, wenn keine Änderung erforderlich
+go_to_paypal: Zum Paypal
+electronics: Elektronik
+home_appliences: Startseite Geraeten
+mobile_and_tables: Mobile & Tabellen
+tv_and_lcd: TV & LCD
+login_with_google: Einloggen mit Google
+login_with_facebook: Einloggen mit Facebook
+load_more_recent_posts: Mehr laden Aktuelle Beiträge
+load_more_featured_posts: Legen Weitere sehenswerte Beiträge
+hot_property: Hot Property
+register_for_new_account: Registrieren Neuer Kunde
+site_map: Sitemap
+show_site_map: Website Karte anzeigen
+service: Service
+features: Eigenschaften
+about: über
+view_posts: Beiträge anzeigen
+see_full_documentation: Siehe die vollständige Dokumentation
+select_city: Wählen Sie die Stadt
+parallax_slider: Parallax Slider
+all_slides: Alle Folien
+no_slide: Keine Rutsche
+slide_order: Bildreihenfolge
+post_price_settings: Postpreis Einstellungen
+enable_post_pricing: Post Preis aktivieren
+enable_paypal_transfer: aktivieren paypal
+enable_bank_transfer: Banküberweisung aktivieren
+bank_transfer_instruction_for_posts: Banküberweisung Instruction
+featured_price_settings: SonderpreisEinstellungen
+enable_featured_pricing: Funktionsumfang Preis aktivieren
+enable_featured_paypal: aktivieren paypal
+enable_featured_bank_transfer: Banküberweisung aktivieren
+bank_transfer_instruction_for_featured_posts: Überweisung Anweisung
+bank_currency_settings: 'Bank- Einstellungen'
+bank_currency: Bank-
+use_same_as_paypal_currency: Verwenden Sie dieselben wie paypal Währung
+admin: Admin
+re_password: Passwort wiederholen
+explain_widget_position: Erklären Widget Positionen
+post: Post
+post_renew: Beitrag Erneuern
+feature: Feature
+feature_renew: Feature Erneuern
+payment_for: Die Zahlung
+new_ad: neue Anzeige
+select_country: Wählen Sie Ihr Land
+select_one: Eine Auswahl
+video_url: vidoe URL
+confirm_payment: Bezahlung Bestätigen
+package_title: Package Titel
+number_of_featured_days: Anzahl der Tage , um zu sehen sein
+no_of_days: Zahl der Tage
+expiration_time: Ablaufzeitpunkts
+any_city: jede Stadt
+any_category: Bitte wählen Kategorie
+include_contact_for_price: Fügen Sie Kontakt für Preis
+product_admin_panel: NuggPlug Admin
+username_or_email: Benutzername oder E-Mail
+post_detail: Beitrag Detail
+post_detail_subtitle: 
+posts_by: Beiträge des
+featured: Sonder
+business: Unternehmen
+individual: Einzelne
+edit_user: Benutzer bearbeiten
+the_field_is_required: Das% s ist erforderlich.
+valid_email: 'Das% s Feld muss eine gültige E-Mail- Adresse enthalten.'
+min_length: Das% s Feld muss mindestens % s Zeichen lang sein .
+numeric: Das% s Feld darf nur Zahlen enthalten.
+matches: Das% s Feld nicht % s Feld entsprechen.
+greater_than: Das% s -Feld muss eine Zahl größer als % s enthalten .
+agree_terms: Ich habe die% s Konditionen % s lesen
+must_accept_terms: Sie müssen Bedingungen und den Zustand zu akzeptieren
+dont_have_permission: Sie haben keine Berechtigung, diese Seite zu betreten
+email_allready_in_use: Bereits verwendet Email
+username_allready_in_use: ID allready im Einsatz
+current_password_not_matched: Aktuelles Passwort didn \ 't Spiel
+email_not_matched: Mail nicht abgestimmt
+account_not_confirmed: Konto nicht bestätigt
+all_locations: Alle Standorte
+add_country: Fügen Land
+add_state: Fügen Zustand
+add_city: Stadt hinzufügen
+no_locations: keine Lokal
+banner_type: banner -Typ
+bg_image: Hintergrundbild
+unique_alias: Das% s -Feld muss eindeutig sein
+error_occured: Fehler aufgetreten. 
+user_profile: Benutzerprofil '
+user_email: Benutzer E-Mail-
+target_lang_name: Zielsprache
+no_emails: Keine E-Mails
+to: bis Zur
+classified_settings: Kleinanzeigen Einstellungen
+publish_posts_directly: Veröffentlichen Sie Beiträge direkt
+system_currency: Systemwährung
+enable_signup: aktivieren Sie die Registrierung
+if_package_expired: Wenn Paket abgelaufen
+do_not_hide: Nicht verstecken
+hide: verbergen
+show_price_like: Preis -Format
+facebook_app_settings: Facebook-App -Einstellungen
+enable_facebook_login: Aktivieren Sie Facebook -Login
+fb_app_id: Facebook-App -ID
+fb_secret_key: Facebook geheimen Schlüssel
+comment_settings: Kommentar -Einstellungen
+enable_comment: aktivieren Kommentar
+disqus_shortname: Disqus Kurzname
+sandbox_mode: Sandbox-Modus
+item_name: Artikelname
+paypal_email: Paypal E-Mail-
+currency: Währung
+finish_url: Fertig url
+cancel_url: Abbrechen url
+menu_background: Menü-Hintergrund
+menu_text_color: Menü Textfarbe
+activated_menu_color: Aktivierte Menüfarbe
+top_bar_bg: Top Bar bg
+activated_menu_text_color: AktivmenüTextfarbe
+latitude: Breite
+longitude: Länge
+map_zoom: Karte vergrößern
+search_panel_settings: Suche Bedienfeld-Einstellungen
+search_panel_bg_color: SuchfeldBG-Farbe
+show_background_image: Bild anzeigen Hintergrund
+active_widget_position: Aktive Widget Position
+upload_and_install: Laden und installieren
+install_updates: Updates installieren / Themen / Plugins / Widgets
+confirmation_email: Bestätigung per E-Mail
+recovery_email: Wiederherstellung E-Mail
+signup_notification_email: Registrieren E-Mail Benachrichtigung
+payment_confirmation_email: Zahlung Bestätigung per E-Mail
+click_and_edit: Wählen Sie eine Vorlage -Datei und klicken Sie auf Bearbeiten
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: 'Standard- SEO -Einstellungen'
+find_us_on_facebook: Finden Sie uns auf Facebook
+category_featured_posts: Beliebte Beiträge
+load_more_posts: Mehr laden
+home_page_title: Suche nach Kategorie und nach oben Anzeigen
+no_posts_found: Keine Einträge
+computers_and_laptops: Computer & Notebooks
+home_appliances: Startseite Geraeten
+mobiles_and_tablets: Mobile und Tabletten
+tv_and_media: TV und Medien
+community: Gemeinde
+carpool: Fahrgemeinschaft
+churches: Kirchen
+garage_sales: Ramschverkäufe
+fashion: Mode
+bags: Taschen
+beauty_products: Beauty-Produkte
+jewelry: Schmuck
+shoes: Schuhe
+watches: Uhren
+jobs: Jobs
+accounting: Buchhaltung
+cleaning: Reinigung
+construction_work: Bauarbeiten
+matrimonials: matrimonials
+brides: Brides
+casual_encounters: Zwanglose Begegnungen
+grooms: Grooms
+pets: Haustiere
+cats: Katzen
+dogs: Hunde
+fish_and_reptiles: Fish & Reptilien
+pet_food: Tiernahrung
+real_estate: Immobilien
+apartment: Wohnung
+commercial_places: Handelsplätze
+homes: Häuser
+lands: Grundstücke
+rentals: Vermietungen
+vehicles: Fahrzeuge
+sports_cars: Sports Cars
+SUV: SUV
+sedan: Limousine
+van_and_truck: Van und LKW
+services: Dienstleistungen
+cleaning_service: Reinigung
+catering_service: Catering Service
+moving_service: Umzugsservice
+educational: pädagogisch
+medical: medizinische
+type_anything: geben Sie nichts
+chosen_not_found: Hoppla, nichts gefunden!
+price_asc: Preis aufsteigend
+price_desc: Preis absteigend
+id_desc: id Absteigend
+id_asc: id Aufsteigend
